@@ -1,4 +1,4 @@
-# Simple command line program written in Python
+# Simple command line random decision maker written in Python
 ## For when you are not sure what you should do
 
 Usage:
